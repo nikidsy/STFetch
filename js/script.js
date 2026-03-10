@@ -1,6 +1,6 @@
 async function buscarPersonagem() {
 
-  const nome = document.getElementById("busca").value.toLowerCase()
+  const nome = document.getElementById("busca").value.toLowerCase();
 
   const resultado = document.getElementById("resultado")
   const mensagem = document.getElementById("mensagem")
@@ -59,7 +59,6 @@ async function buscarPersonagem() {
 
       resultado.appendChild(card)
       })
-    })
 
   } catch (error) {
 
