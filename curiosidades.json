@@ -1,0 +1,115 @@
+{
+  "serie": "Stranger Things",
+  "personagens": [
+    {
+      "nome": "Jane 'Eleven' Hopper",
+      "ator": "Millie Bobby Brown",
+      "curiosidade": "A atriz raspou a cabeça para interpretar Eleven na primeira temporada."
+    },
+    {
+      "nome": "Mike Wheeler",
+      "ator": "Finn Wolfhard",
+      "curiosidade": "Mike foi um dos primeiros personagens criados pelos irmãos Duffer."
+    },
+    {
+      "nome": "Dustin Henderson",
+      "ator": "Gaten Matarazzo",
+      "curiosidade": "O ator realmente possui displasia cleidocraniana."
+    },
+    {
+      "nome": "Lucas Sinclair",
+      "ator": "Caleb McLaughlin",
+      "curiosidade": "Lucas é frequentemente o mais cauteloso do grupo."
+    },
+    {
+      "nome": "Will Byers",
+      "ator": "Noah Schnapp",
+      "curiosidade": "Seu desaparecimento inicia a história da série."
+    },
+    {
+      "nome": "Maxine 'Max' Mayfield",
+      "ator": "Sadie Sink",
+      "curiosidade": "A cena com a música Running Up That Hill se tornou viral."
+    },
+    {
+      "nome": "Erica Sinclair",
+      "ator": "Priah Ferguson",
+      "curiosidade": "A personagem se tornou regular após grande popularidade."
+    },
+    {
+      "nome": "Nancy Wheeler",
+      "ator": "Natalia Dyer",
+      "curiosidade": "Nancy se torna uma investigadora importante contra os mistérios de Hawkins."
+    },
+    {
+      "nome": "Jonathan Byers",
+      "ator": "Charlie Heaton",
+      "curiosidade": "Jonathan é apaixonado por fotografia e música alternativa."
+    },
+    {
+      "nome": "Steve Harrington",
+      "ator": "Joe Keery",
+      "curiosidade": "O personagem seria antagonista, mas foi reescrito."
+    },
+    {
+      "nome": "Robin Buckley",
+      "ator": "Maya Hawke",
+      "curiosidade": "Maya Hawke é filha de Ethan Hawke e Uma Thurman."
+    },
+    {
+      "nome": "Billy Hargrove",
+      "ator": "Dacre Montgomery",
+      "curiosidade": "Billy foi possuído pelo Devorador de Mentes na terceira temporada."
+    },
+    {
+      "nome": "Karen Wheeler",
+      "ator": "Cara Buono",
+      "curiosidade": "Karen é mãe de Mike, Nancy e Holly."
+    },
+    {
+      "nome": "Ted Wheeler",
+      "ator": "Joe Chrest",
+      "curiosidade": "Ted é conhecido por seu comportamento passivo e cômico."
+    },
+    {
+      "nome": "Holly Wheeler",
+      "ator": "Anniston Price e Tinsley Price",
+      "curiosidade": "Interpretada por irmãs gêmeas."
+    },
+    {
+      "nome": "Joyce Byers",
+      "ator": "Winona Ryder",
+      "curiosidade": "Joyce percebe os primeiros sinais do mundo invertido."
+    },
+    {
+      "nome": "Jim Hopper",
+      "ator": "David Harbour",
+      "curiosidade": "Hopper se torna pai adotivo de Eleven."
+    },
+    {
+      "nome": "Bob Newby",
+      "ator": "Sean Astin",
+      "curiosidade": "Bob ajuda Joyce e acaba se sacrificando na segunda temporada."
+    },
+    {
+      "nome": "Murray Bauman",
+      "ator": "Brett Gelman",
+      "curiosidade": "Murray é um jornalista conspiracionista."
+    },
+    {
+      "nome": "Dr. Martin Brenner",
+      "ator": "Matthew Modine",
+      "curiosidade": "Responsável pelos experimentos com crianças no laboratório."
+    },
+    {
+      "nome": "Dr. Sam Owens",
+      "ator": "Paul Reiser",
+      "curiosidade": "Substitui Brenner e tenta conter o portal para o Mundo Invertido."
+    },
+    {
+      "nome": "Henry Creel / Vecna",
+      "ator": "Jamie Campbell Bower",
+      "curiosidade": "Vecna é a principal ameaça da quarta temporada."
+    }
+  ]
+}
