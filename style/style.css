@@ -16,6 +16,7 @@ body{
     font-family: 'Stranger Things', sans-serif;
     width: 100%;
     min-height: 100vh;
+    gap: 20px;
 
 
     button {
@@ -23,7 +24,7 @@ body{
         padding: 10px;
         border-radius: 10px;
         background: #000000;
-        color:  #ff0000;
+        color: #ff0000;
         font-weight: bold;
     }
 }
@@ -57,11 +58,12 @@ header {
     display: flex;
     flex-direction: column;
     width: 10%;
+    height: -webkit-fill-available;
     border-radius: 15px;
     border: 1px #000000 solid;
     background-color: #000000;
     text-align: center;
-    color:  #ff0000;
+    color: #ff0000;
     padding: 10px;
     gap: 10px;
     box-shadow: 0 15px 30px rgb(66, 0, 0);
@@ -74,6 +76,7 @@ header {
     display: flex;
     flex-direction: column;
     gap: 20px;
+    text-wrap: wrap;
 }
 #mensagem{
     width: 100%;
@@ -85,7 +88,8 @@ header {
 #resultado{
     width: 100%;
     display: flex;
-    flex-direction: column;
+    gap: 30px;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
@@ -95,22 +99,22 @@ header {
     border-radius: 10px;
     background-color: #000000 !important;
     border: solid 1px #390000 !important;
-    color:  #ff0000 !important;
+    color: #ff0000 !important;
 }
 #busca:focus {
     background-color: #000000 !important;
     border-color: #390000 !important;
-    color:  #ff0000 !important;
+    color: #ff0000 !important;
 }
 #busca::placeholder {
-    color:  #ff0000;
+    color: #ff0000;
 }
 input[type="text"]:-webkit-autofill,
 input[type="text"]:-webkit-autofill:hover,
 input[type="text"]:-webkit-autofill:focus,
 input[type="text"]:-webkit-autofill:active {
     -webkit-box-shadow: 0 0 0 30px black inset !important;  /* Sobrescreve autocomplete no Chrome */
-    -webkit-text-fill-color:#800101  !important;
+    -webkit-text-fill-color:#ff0000  !important;
 }
 
 footer{
