@@ -39,6 +39,9 @@ https://st-fetch.vercel.app/
 - A aplicacão funcionando
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/8e0a99b4-45c6-4b61-a459-b58efa5c77fa" />
 
+## REFERENCIAS
+
+https://api.tvmaze.com/singlesearch/shows?q=Stranger%20Things&embed=cast
 
 
 
