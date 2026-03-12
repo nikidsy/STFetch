@@ -37,7 +37,8 @@ https://st-fetch.vercel.app/
 <img width="3437" height="1266" alt="<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/4e95912b-6613-4d9f-8804-8b59fa6e3d41" />
 
 - A aplicacão funcionando
-<img width="3431" height="1210" alt="Captura de tela 2026-03-11 181019" src="https://github.com/user-attachments/assets/8b26c8fc-a330-454b-bda6-d35ce169ef85" />
+<img width="3431" height="1210" alt="<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/8e0a99b4-45c6-4b61-a459-b58efa5c77fa" />
+
 
 
 
